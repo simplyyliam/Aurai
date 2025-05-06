@@ -35,7 +35,7 @@ function Home() {
           Height={150}
           bottom={5}
           right={10}
-          link="./Theme Pages/Stillness.tsx"
+          link="/src/Pages/Theme Pages/Stillness.tsx" 
         />
         <Card
           Title="Obsidian"
@@ -44,7 +44,7 @@ function Home() {
           Height={250}
           top={5}
           left={10}
-          link="./Theme Pages/Obsidian.tsx"
+          link="/src/Pages/Theme Pages/Obsidian.tsx" 
         />
         <Card
           Title="Verdant"
@@ -53,7 +53,7 @@ function Home() {
           Height={150}
           bottom={5}
           left={10}
-          link="./Theme Pages/Verdant.tsx"
+          link="/src/Pages/Theme Pages/Verdant.tsx"
         />
         <Card
           Title="Dreamy"
@@ -62,7 +62,7 @@ function Home() {
           Height={180}
           top={5}
           right={15}
-          link="./Theme Pages/Dreamy.tsx"
+          link="/src/Pages/Theme Pages/Dreamy.tsx"
         />
       </div>
     </>
